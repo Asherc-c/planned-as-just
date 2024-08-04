@@ -1,11 +1,11 @@
-# How to compile?
-1. Install `Visual Studio`
-2. Open `Muse Dash Patcher.sln`
-3. Change the configurations from `Debug-x64` to `Release-x64`
-4. Press `CTRL + SHIFT + B`
+# how to compile?
+1 install `visual studio`
+2 open `muse dash patcher.sln`
+3 change the configurations from `debug-x64` to `release-x64`
+4 press `ctrl + shift + b`
 
-# How to use?
-1. Put original `GameAssembly.dll` to the same directory as `Patcher.exe` (Take the original `GameAssembly.dll` from Muse Dash directory)
-2. Then run `Patcher.exe`
-3. Wait for a while until it generated `GameAssembly_patched.dll`
-4. Put `GameAssembly_patched.dll` to your Muse Dash directory and rename it to `GameAssembly.dll`
+# how to use?
+1 put original `GameAssembly.dll` to the same directory as `patcher.exe`
+2 then run `patcher.exe`
+3 wait for a while until it generated `GameAssembly_patched.dll`
+4 put `GameAssembly_patched.dll` to your muse dash directory and rename it to `GameAssembly.dll`
